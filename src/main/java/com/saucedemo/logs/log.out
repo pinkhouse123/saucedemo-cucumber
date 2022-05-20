@@ -1,0 +1,51 @@
+2022-05-19 21:05:293 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-19 21:05:437 INFO  SignInPage :29 - set email field
+2022-05-19 21:05:608 INFO  SignInPage :34 - set password field
+2022-05-19 21:05:750 INFO  SignInPage :39 - Click on login button
+2022-05-19 21:05:149 INFO  Inventory :44 - Select price high to lowName (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low)
+2022-05-19 21:05:288 INFO  Inventory :33 - add to cat cheapest & costliest products 
+2022-05-19 21:05:470 INFO  Inventory :39 - Click on shopping cart2
+2022-05-19 21:05:600 INFO  CartPage :23 - Click on checkoutCHECKOUT
+2022-05-19 21:05:676 INFO  CheckOutPage :40 - Set first NameUmi
+2022-05-19 21:05:773 INFO  CheckOutPage :45 - Set last NamePatel
+2022-05-19 21:05:892 INFO  CheckOutPage :50 - Set postal code HA9Y6T
+2022-05-19 21:05:47 INFO  CheckOutPage :55 - Click On Continue button
+2022-05-19 21:05:176 INFO  CheckOutPage :60 - Click on finish buttonFINISH
+2022-05-19 21:05:290 INFO  CheckOutPage :65 - Get textTHANK YOU FOR YOUR ORDER
+2022-05-19 21:05:190 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-19 21:05:748 INFO  SignInPage :29 - set email field
+2022-05-19 21:05:900 INFO  SignInPage :34 - set password field
+2022-05-19 21:05:31 INFO  SignInPage :39 - Click on login button
+2022-05-19 21:05:384 INFO  Inventory :44 - Select price high to lowName (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low)
+2022-05-19 21:05:511 INFO  Inventory :33 - add to cat cheapest & costliest products 
+2022-05-19 21:05:702 INFO  Inventory :39 - Click on shopping cart2
+2022-05-19 21:05:831 INFO  CartPage :23 - Click on checkoutCHECKOUT
+2022-05-19 21:05:898 INFO  CheckOutPage :40 - Set first NameUmi
+2022-05-19 21:05:07 INFO  CheckOutPage :45 - Set last NamePatel
+2022-05-19 21:05:129 INFO  CheckOutPage :50 - Set postal code HA9Y6T
+2022-05-19 21:05:284 INFO  CheckOutPage :55 - Click On Continue button
+2022-05-19 21:05:419 INFO  CheckOutPage :60 - Click on finish buttonFINISH
+2022-05-19 21:05:524 INFO  CheckOutPage :65 - Get textTHANK YOU FOR YOUR ORDER
+2022-05-20 14:05:424 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-20 14:05:267 INFO  SignInPage :29 - set email field
+2022-05-20 14:05:675 INFO  SignInPage :34 - set password field
+2022-05-20 14:05:12 INFO  SignInPage :39 - Click on login button
+2022-05-20 14:05:636 INFO  Inventory :44 - Select price high to lowName (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low)
+2022-05-20 14:05:878 INFO  Inventory :33 - add to cat cheapest & costliest products 
+2022-05-20 14:05:247 INFO  Inventory :39 - Click on shopping cart2
+2022-05-20 14:05:480 INFO  CartPage :23 - Click on checkoutCHECKOUT
+2022-05-20 14:05:617 INFO  CheckOutPage :40 - Set first NameUmi
+2022-05-20 14:05:825 INFO  CheckOutPage :45 - Set last NamePatel
+2022-05-20 14:05:65 INFO  CheckOutPage :50 - Set postal code HA9Y6T
+2022-05-20 14:05:418 INFO  CheckOutPage :55 - Click On Continue button
+2022-05-20 14:05:682 INFO  CheckOutPage :60 - Click on finish buttonFINISH
+2022-05-20 14:05:907 INFO  CheckOutPage :65 - Get textTHANK YOU FOR YOUR ORDER
